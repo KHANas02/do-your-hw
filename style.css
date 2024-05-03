@@ -1,0 +1,7 @@
+.custom-checkbox__input:focus + .custom-checkbox__label::before {
+   outline: 3px solid #222;
+ }
+  .custom-checkbox:focus-within .custom-checkbox__label::before {
+   outline: 3px solid #222;
+ }
+
